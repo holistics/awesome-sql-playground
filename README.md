@@ -18,6 +18,8 @@ A curated list of the best **SQL playgrounds** and **online SQL compilers** for 
 
 - [SQLite Online](https://sqliteonline.com/)  
   Browser-based SQLite playground. Perfect for rapid prototyping and lightweight SQL queries.
+- [Skillancy SQL Compiler](https://skillancy.in/tools/sql-compiler)  
+  Free, browser-based PostgreSQL compiler that runs real Postgres queries with no installation. Pairs with 25 interview-style SQL practice problems that use a live editor.
 
 ## Features to Consider
 - Database Support (MySQL, PostgreSQL, SQLite, Oracle, SQL Server)
